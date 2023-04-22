@@ -1,1 +1,0 @@
-Uji coba menggunakan open cv untuk menghitung kendaraan yang lewat di jalan
