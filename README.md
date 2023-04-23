@@ -1,6 +1,6 @@
 
 #  🕵️‍♂️ Object Detection & Tracking
-## # 🎥 Object Detection & Tracking with Opencv and Python
+## 🎥 Object Detection & Tracking with Opencv and Python
 
 
 > Menggunakan *tutorial* dari
@@ -22,4 +22,4 @@ Contoh *preview* *face detection*
 
 | *Mask* |*ROI*| *Output* |
 |--|--|--|
-| <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/Obama%20-%20Biden%202.png" width="500"></img>|  <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%201.png" width="500"></img> | <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
+| <img src="https://raw.githubusercontent.com/adamazanos/object_tracking/main/Prev%20Detection/mask.png" width="500"></img>|  <img src="https://raw.githubusercontent.com/adamazanos/object_tracking/main/Prev%20Detection/roi%20area.png" width="500"></img> | <img src="https://raw.githubusercontent.com/adamazanos/object_tracking/main/Prev%20Detection/Tracking%201.png" width="500"></img> |
