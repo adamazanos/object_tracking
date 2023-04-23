@@ -10,6 +10,7 @@
 
 Target tutorial ini untuk mereplikasi tutorial object detection dan juga juga melakukan counting pada objek yang sedang di jalankan.
 
+Konsep deteksi adalah menggunakan deteksi mask, pada proses counting menggunakan proses ROI atau Region Of Interest dan output akhir yang bisa mentracking objek dan menghitung objek yang masuk dalam ROI.
 
 ## 🎞️*Sumber video*
 
