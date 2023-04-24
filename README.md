@@ -20,6 +20,7 @@ Konsep deteksi adalah menggunakan deteksi mask, pada proses counting menggunakan
 
 - Sumber video uji coba dan telah di edit ulang durasi dan di ubah ukuran size https://www.youtube.com/watch?v=KBsqQez-O4w
 
+
 ## 🤖 Preview *Output*
 Contoh *preview* *face detection*
 
