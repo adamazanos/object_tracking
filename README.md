@@ -8,7 +8,7 @@
 
 [OpenCV](https://opencv.org/ ) adalah *library* python yang bertujuan untuk computer vision. Library ini selain untuk  mendeteksi gambar, juga bisa untuk mendeteksi video.
 
-Target tutorial ini untuk mereplikasi tutorial object detection dan juga juga melakukan counting pada objek yang sedang di jalankan.
+Target projeck ini untuk mereplikasi tutorial object detection dan juga juga melakukan counting pada objek yang sedang berjalankan pada kasus ini adalah mobil di jalan bebas  hambatan.
 
 Konsep deteksi adalah menggunakan deteksi mask, pada proses counting menggunakan proses ROI atau Region Of Interest dan output akhir yang bisa mentracking objek dan menghitung objek yang masuk dalam ROI.
 
